@@ -1,5 +1,5 @@
 # SharePoint Batch Operations
-It's a repository for SharePoint batch requests using JavaScript Object Model (JSOM) in jQuery
+It's a jQuery plugin for SharePoint batch requests using JavaScript Object Model (JSOM) in jQuery
 
 ## Features Included:
 * SharePoint JSOM Batch requests for creation,updation and deletion.

@@ -1,6 +1,4 @@
 /*global SP,alert.console*/
-(function() {
-  "use strict";
   /*Creating items in batch*/
   var createListItems = function(listName, listItems) {
     var dfd = jQuery.Deferred(),
@@ -188,4 +186,4 @@
     );
     return dfd.promise();
   };
-});
+
